@@ -1,2 +1,3 @@
-# Repositório-OM
+# Repositório Olá M.
  Primeiro repositório do curso de Git e Github
+Criação durante aula
